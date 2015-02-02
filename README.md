@@ -13,7 +13,7 @@ the code samples used in the book are available online for free [here](https://p
 # get dependencies and compile
 ./sbt clean update compile
 
-# run to parse input string "{4,3,2,1}", should output parsed LISP-style tree
+# run to parse input string "{4,3,2,1,0}", should output parsed LISP-style tree
 ./sbt "run {4,3,2,1,0}"
 # output -> (init { (value 4) , (value 3) , (value 2) , (value 1) , (value 0) })
 ```
