@@ -17,3 +17,9 @@ the code samples used in the book are available online for free [here](https://p
 ./sbt "run {4,3,2,1,0}"
 # output -> (init { (value 4) , (value 3) , (value 2) , (value 1) , (value 0) })
 ```
+## Intellij
+```
+(https://github.com/derekpappas/antlr-test1/blob/master/images/intellij_configuration.png)
+
+(https://github.com/derekpappas/antlr-test1/blob/master/images/output.png)
+```
