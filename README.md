@@ -21,4 +21,4 @@ the code samples used in the book are available online for free [here](https://p
 Configuration: 
 ![alt text](https://github.com/derekpappas/antlr-test1/blob/master/images/intellij_configuration.png "Configuration")
 
-![Alt text](/images/intellij_configuration.png?raw=true "Configuration")
+![Alt text](/images/output.png?raw=true "Configuration")
