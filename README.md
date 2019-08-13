@@ -18,7 +18,6 @@ the code samples used in the book are available online for free [here](https://p
 # output -> (init { (value 4) , (value 3) , (value 2) , (value 1) , (value 0) })
 ```
 ## Intellij
-```
 Configuration: 
 ![alt text](https://github.com/derekpappas/antlr-test1/blob/master/images/intellij_configuration.png "Configuration")
 
@@ -29,4 +28,4 @@ Inline-style:
 
 ![Image of output]
 (https://github.com/derekpappas/antlr-test1/blob/master/images/output.png)
-```
+
