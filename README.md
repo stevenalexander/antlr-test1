@@ -22,10 +22,3 @@ Configuration:
 ![alt text](https://github.com/derekpappas/antlr-test1/blob/master/images/intellij_configuration.png "Configuration")
 
 ![Alt text](/images/intellij_configuration.png?raw=true "Configuration")
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![Image of output]
-(https://github.com/derekpappas/antlr-test1/blob/master/images/output.png)
-
