@@ -1,15 +1,7 @@
-name := "antlr-test1"
+scalaVersion := "2.13.5"
 
-version := "0.1.0"
-
-scalaVersion := "2.11.2"
-
-antlr4Settings
-
+enablePlugins(Antlr4Plugin)
+antlr4Version in Antlr4 := "4.9.2"
 antlr4GenListener in Antlr4 := true
-
 antlr4GenVisitor in Antlr4 := true
-
-antlr4Dependency in Antlr4 := "org.antlr" % "antlr4" % "4.5"
-
 antlr4PackageName in Antlr4 := Some("com.example")
