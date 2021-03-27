@@ -12,7 +12,7 @@ public class CompilerApplication {
         }
 
         // create a CharStream that reads from standard input
-        ANTLRInputStream input = new ANTLRInputStream(inputText);
+        CharStream input = CharStreams.fromString(inputText);
 
         // create a lexer that feeds off of input CharStream
         ArrayInitLexer lexer = new ArrayInitLexer(input);

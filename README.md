@@ -1,6 +1,6 @@
 # ANTLR test project
 
-Simple example project showing how to include [ANTLR 4.5](http://www.antlr.org/) into a Java application, using SBT for
+Simple example project showing how to include [ANTLR 4.9.2](http://www.antlr.org/) into a Java application, using SBT for
 the build with the [sbt-antlr4](https://github.com/ihji/sbt-antlr4) plugin to automatically compile the grammar file
 under src/main/antlr.
 
